@@ -5,11 +5,10 @@ Encryption part was managed by this user of this related app.
 Extract the project:
 cd secure-file-sharing
 Create a virtual environment (recommended):
+
 python -m venv venv
-# Windows:
 venv\Scripts\activate
-# Linux/Mac:
-source venv/bin/activate
+
 Install dependencies:
 pip install -r requirements.txt
 Run the application:
